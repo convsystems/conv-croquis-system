@@ -94,7 +94,8 @@
   "pnpm": {
     "overrides": {
       "lodash": "^4.17.23",
-      "tmp": "^0.2.4"
+      "tmp": "^0.2.4",
+      "@eslint/plugin-kit": ">=0.3.4"
     }
   }
 }
